@@ -1,4 +1,3 @@
-# Name_Surname
 ## Листинг 4_1
 ```Py
 def main():
